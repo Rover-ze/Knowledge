@@ -1,3 +1,4 @@
+```
 RUD表示create,drop,update,select分别表示：创建，删除，更新，查找
 SQL: Structured Query Language 
 -- DDL: Data Definition Languag (create / drop / alter)
